@@ -29,7 +29,7 @@
       desc:'La combinación perfecta de frutas que despierta tus sentidos y te transporta a un ambiente lleno de energía y diversión.' },
   ];
 
-  const WA = 'https://wa.me/573009451392?text=';
+  const WA = 'https://wa.me/573009651392?text=';
   const arrow = '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 
   function renderCards() {
